@@ -1,0 +1,39 @@
+.card{
+    width: 18rem;
+    margin-bottom: 1.5vw;
+    margin-top: 1.5vw;
+}
+
+.card-title{
+    background-color: rgb(40, 44, 52,1);
+    color: azure;
+}
+
+.image{
+    display: block;
+    margin: 0 auto;
+
+    width: 70%;
+    height: 50%;
+}
+
+.eliminar_modificar{
+    border: none;
+    background-color: transparent;
+}
+
+.eliminar{
+    color: rgb(196, 30, 30);
+}
+
+.btn{
+    background-color: #4454ad;
+    color: azure;
+}
+
+.btn:hover{
+    background-color: #8d9adf;
+    color: azure;
+    -webkit-transition: color 150ms ease-in-out;
+    transition: color 150ms ease-in-out;
+}

@@ -1,0 +1,15 @@
+.titleC{
+    font-size: 2vw;
+    font-family: 'Pokemon Solid', sans-serif;
+    letter-spacing: 1vw;
+    padding-bottom: 2vw;
+    padding-top: 3vw;
+}
+
+.icoPokemon{
+    width: 5vw;
+}
+
+.crear{
+    padding-bottom: 2vw;
+}

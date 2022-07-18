@@ -1,0 +1,66 @@
+.footer{
+    margin-top: 2vw;
+    background-color: #282c34;
+    color: azure;
+}
+
+.section2{
+    padding-top: 2vw;
+    font-size: 25px;
+    opacity: 0.8;
+    padding-left: 6vw;
+}
+
+.section2 i{
+    padding: 1.5vw;
+    margin-right: 2vw;
+    border-radius: 50%;
+}
+
+.section2 i:hover{
+    background-color: #4454ad;
+    color: azure;
+    border-radius: 50%;
+    padding: 1.5vw;
+    cursor: pointer;
+
+    -webkit-transition: all .0s ease-in-out;
+    -moz-transition: all .1s ease-in-out;
+    -ms-transition: all .1s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+blockquote{
+    padding-top: 3%;
+    padding-left: 12.5%;
+    padding-right: 12.5%;
+}
+
+.section3{
+    font-weight: lighter;
+    font-size: 1vw;
+
+    margin-top: 2vw;
+    padding-left: 14.2%;
+    padding-right: 14.2%;
+    padding-bottom: 5vw;
+}
+
+#contact, #polity{
+    margin-left: 1vw;
+}
+
+#contact{
+    margin-left: 32vw;
+}
+
+#polity:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#contact:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}

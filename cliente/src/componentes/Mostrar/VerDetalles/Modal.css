@@ -1,0 +1,36 @@
+.containerM{
+    margin-left: 25vw;
+    margin-right: 25vw;
+    margin-bottom: 10vw;
+    margin-top: 10vw;
+    border: rgb(28, 55, 87,0.1) 1px;
+    border-style: solid;
+    border-radius: 5%;
+    padding-bottom: 5vw;
+    /*padding-top: 5vw;*/
+}
+
+.imagen{
+    display: block;
+    margin: 0 auto;
+
+    width: 10%;
+    height: 10%;
+}
+
+.title{
+    font-size: 3vw;
+    font-family: 'Pokemon Solid', sans-serif;
+    letter-spacing: 1vw;
+    padding-bottom: 2vw;
+    padding-top: 5vw;
+    border-bottom: solid rgb(28, 55, 87,0.2) 1px;
+    border-radius: 5%;
+
+    background-color: rgb(40, 44, 52,1);
+    color: azure;
+}
+
+.card-text{
+    padding-top: 1.5vw;
+}
